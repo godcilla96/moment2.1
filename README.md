@@ -1,4 +1,3 @@
-# Cecilia Lindström
 # Cecilia Lindström - moment 3.2
 Har för kursen **DT084G** - Introduktion för programmering i JavaScript skapat ett Github-konto och ett nytt *remote repository* som inkluderar en README.md-fil. 
 
